@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator Carmel"
 author: "Carmel Nguelebek"
 description: "Generates a feed for a podcast from a YAM file"
 runs: 
